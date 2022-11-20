@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SensorAPP</string>
+    <string name="location_button">Pobierz lokalizację</string>
+    <string name="address_button">Pobierz adres</string>
+    <string name="location_prompt">Wciśnij przycisk, aby pobrać ostatnią lokalizację</string>
+    <string name="missing_sensor">Niestety urządzenie nie posiada takiego czujnika</string>
+    <string name="location_text">"Szerokość geograficzna: %1$.4f \n Długość
+geograficzna: %2$.4f \n Czas: %3$tr"</string>
+    <string name="no_location">Brak informacji na temat ostatniej lokalizacji</string>
+    <string name="location_permission_denied">Brak praw dostępu</string>
+    <string name="service_not_available">Usługa lokalizacji niedostępna</string>
+    <string name="no_address_found">Nie znaleziono adresu</string>
+    <string name="address_text">Adres: %1$s \n Czas: %2$tr</string>
+    <string name="show_subtitles">Liczba czujników</string>
+    <string name="hide_subtitles">Ukryj</string>
+    <string name="sensors_count">Liczba czujników: %d</string>
+</resources>
